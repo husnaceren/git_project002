@@ -15,5 +15,7 @@ public class FirstClass {
 		    
 		    System.out.println("first commit from ceren branch");
 		    
+		    System.out.println("The second commit from local ceren");
+		    
 	}
 }
